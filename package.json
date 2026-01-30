@@ -3,12 +3,48 @@
   "version": "1.0.0",
   "description": "Generate beautiful README.md files with badges, install instructions, and API docs",
   "main": "dist/index.js",
-  "bin": { "ai-readme": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["ai", "llm", "claude", "anthropic", "openai", "gpt", "readme", "documentation", "markdown", "badges", "api-docs", "developer-tools", "cli", "automation", "typescript", "nodejs", "github", "npm"],
+  "bin": {
+    "ai-readme": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "agentic",
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "api-docs",
+    "automation",
+    "badges",
+    "claude",
+    "cli",
+    "developer-tools",
+    "documentation",
+    "github",
+    "gpt",
+    "llm",
+    "markdown",
+    "nodejs",
+    "npm",
+    "openai",
+    "readme",
+    "typescript",
+    "zero-config"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/LXGIC-Studios/ai-readme" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/ai-readme"
+  }
 }
