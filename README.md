@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-readme.svg)](https://www.npmjs.com/package/ai-readme)
 [![npm downloads](https://img.shields.io/npm/dm/ai-readme.svg)](https://www.npmjs.com/package/ai-readme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-readme)](https://github.com/lxgic-studios/ai-readme/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered README generator. Creates beautiful documentation with badges, install instructions, and API docs.
 
