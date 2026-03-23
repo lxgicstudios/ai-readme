@@ -7,6 +7,9 @@
   "bin": {
     "ai-readme": "dist/index.js"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
@@ -28,16 +31,25 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-readme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-readme"
+    "url": "git+https://github.com/LXGIC-Studios/ai-readme"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-readme/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   },
-  "files": [
-    "dist"
-  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "devDependencies": {
     "@types/node": "^25.2.2",
     "typescript": "^5.9.3"
