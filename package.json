@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-readme",
   "version": "1.0.0",
-  "description": "Generate professional README.md files from codebase analysis. Scans package.json, detects frameworks, outputs badges, install instructions, API docs, and more.",
+  "description": "AI-powered README generator - create comprehensive documentation with GPT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
@@ -15,29 +15,42 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "readme",
-    "generator",
-    "documentation",
-    "markdown",
+    "2025-standards",
+    "ai-2025",
+    "ai-powered",
+    "api-docs",
+    "badges",
     "cli",
     "codebase",
-    "badges",
-    "api-docs",
-    "project-setup",
+    "developer-experience",
+    "developer-productivity",
     "developer-tools",
-    "typescript",
-    "npm",
-    "scaffold"
+    "discoverability",
+    "documentation",
+    "generative-ai",
+    "generator",
+    "knowledge-base",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "readme",
+    "seo",
+    "seo-2026",
+    "tech-writing",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-readme#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-readme"
+    "url": "https://github.com/LXGIC-Studios/ai-readme"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-readme/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-readme/issues"
   },
   "funding": {
     "type": "github",

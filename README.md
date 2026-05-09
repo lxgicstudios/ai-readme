@@ -1,5 +1,7 @@
 # @lxgicstudios/ai-readme
 
+README generator and template. Creates comprehensive documentation with badges and examples.
+
 [![npm version](https://img.shields.io/npm/v/@lxgicstudios/ai-readme)](https://www.npmjs.com/package/@lxgicstudios/ai-readme)
 [![npm downloads](https://img.shields.io/npm/dm/@lxgicstudios/ai-readme)](https://www.npmjs.com/package/@lxgicstudios/ai-readme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -41,65 +43,70 @@ ai-readme [options]
 ### Options
 
 | Option | Description | Default |
-|--------|-------------|---------|
-| `--dir <path>` | Target directory to analyze | Current directory |
-| `--style <mode>` | Output style: `minimal` or `detailed` | `detailed` |
-| `--output <file>` | Output file path | `README.md` |
-| `--update` | Preserve custom sections in existing README | `false` |
-| `--json` | Output analysis as JSON instead of markdown | `false` |
-| `--dry-run` | Preview output without writing to disk | `false` |
-| `--help` | Show help message | |
+|
 
-### Examples
 
-```bash
-# Generate README in current directory
-npx @lxgicstudios/ai-readme
 
-# Minimal style with custom output path
-npx @lxgicstudios/ai-readme --style minimal --output DOCS.md
 
-# Update existing README, keep custom sections
-npx @lxgicstudios/ai-readme --update
+ [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
 
-# Preview what it'd generate (no file written)
-npx @lxgicstudios/ai-readme --dry-run
 
-# Export analysis as JSON
-npx @lxgicstudios/ai-readme --json
-```
+- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
+- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
 
-### Custom Sections
+## 🚀 Built with ❤️ by LXGIC Studios
 
-When using `--update`, ai-readme preserves any sections wrapped in custom markers:
+> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
 
-```markdown
-<!-- custom: my-section -->
-Your custom content here that won't be overwritten.
-<!-- /custom -->
-```
 
-## What It Detects
+**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
+**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
+**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
 
-- **Frameworks:** React, Next.js, Vue, Nuxt, Svelte, Angular, Express, Fastify, Hono, and more
-- **Languages:** TypeScript, JavaScript, Python, Rust, Go, Ruby, Java, CSS, SCSS
-- **Project config:** bin entries, scripts, engines, keywords, dependencies
-- **Structure:** src/ file tree, entry points, CLI definitions
+## 📄 License
 
-## Contributing
+MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/cool-feature`)
-3. Commit your changes (`git commit -m 'feat: add cool feature'`)
-4. Push to the branch (`git push origin feature/cool-feature`)
-5. Open a Pull Request
+## 🤝 Contributing
 
-## License
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
-MIT License. See [LICENSE](LICENSE) for details.
+
+<div align="center">
+  <p>
+    <a href="https://github.com/lxgicstudios/sponsor">
+      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
+    </a>
+    <a href="https://twitter.com/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
+    </a>
+    <a href="https://discord.gg/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+    </a>
+  </p>
+</div>
 
 ---
 
-Built by **[LXGIC Studios](https://lxgicstudios.com)**
+Built by [LXGIC Studios](https://github.com/lxgicstudios)
 
-[GitHub](https://github.com/lxgicstudios/ai-readme) | [Twitter](https://x.com/lxgicstudios)
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
