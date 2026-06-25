@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
-  "description": "AI-powered README generator - create comprehensive documentation with GPT",
+  "description": "AI-powered README generator - create complete documentation with GPT",
   "devDependencies": {
     "@types/node": "^25.2.2",
     "typescript": "^5.9.3"
@@ -41,7 +41,9 @@
     "faq-rich-results-removed",
     "ai-overview-citation",
     "structured-data-seo",
-    "llms-txt-seo"
+    "llms-txt-seo",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
