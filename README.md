@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered README generator - create comprehensive documentation with GPT.
+> AI-powered README generator - create thorough documentation with GPT.
 
 ## 🚀 Features
 
@@ -53,7 +53,7 @@ Ai readme is a software development tool designed to help developers solve speci
 
 ## How Does Ai readme Work?
 
-This tool provides feature 1,feature 2. It integrates seamlessly with modern development workflows.
+This tool provides feature 1,feature 2. It integrates smoothly with modern development workflows.
 
 ## Quick Start
 
