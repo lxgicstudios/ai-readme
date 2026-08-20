@@ -41,10 +41,7 @@
     "markdown",
     "npx",
     "onboarding",
-    "openai",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
